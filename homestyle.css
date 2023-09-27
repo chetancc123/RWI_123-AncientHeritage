@@ -1,0 +1,63 @@
+/* Custom CSS */
+.navbar-custom {
+    background-color:#8d236a  ; /* Change the background color */
+    color: #fff; /* Change the text color */
+}
+
+.navbar-custom .navbar-nav .nav-item .nav-link {
+    color: white;
+    font-weight: bolder; /* Set the text color to white */
+}
+
+/* Hover effect for Navbar Links */
+.navbar-custom .navbar-nav .nav-item .nav-link:hover {
+    color: #55c4e4; 
+}
+
+/* Style the logo */
+.logo {
+    width: 50px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+}
+
+/* Style the search bar */
+.form-control {
+    border-color: #fff; /* Change the border color */
+    color: #000; /* Change the text color */
+}
+
+/* Style the search button */
+.btn-outline-success {
+    border-color: #fff; /* Change the border color */
+    color: #fff; /* Change the text color */
+}
+
+.carousel-inner {
+    height: 550px; /* Adjust the height as needed */
+}
+
+.carousel-inner img {
+    height: 550px;
+    object-fit: cover;
+    
+}
+
+.container{
+    width: 100%;
+}
+
+.about{
+    background: radial-gradient(#b3335f,#8d236a );
+    color: #fff;
+}
+
+.middle{
+    background: radial-gradient(#b3335f,#8d236a );
+    color: #fff;
+}
+
+.top{
+    text-align: center;
+    color: #8d236a;
+    font-weight: bolder;
+}

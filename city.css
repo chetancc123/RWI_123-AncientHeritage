@@ -21,7 +21,7 @@
 .photo{
     width: 80px;
     height: 80px;
-    border: 5px solid #55c4e4;
+    border: 5px solid #8d236a;
 }
 
 /* Style the search bar */
@@ -37,7 +37,7 @@
 }
 
 .city-name {
-    background-color:rgba(0, 0, 0, 0.5)
+    background-color:rgba(0, 0, 0, 0.2)
     ; /* Background color */
     color: #3E001F;
     width: 100%; /* Text color */
@@ -83,5 +83,11 @@
     background: radial-gradient(#b3335f,#8d236a );
     color: #fff;
 }
+
+/* .city-profile .nav-link.active {
+    border: 5px solid #55c4e4; 
+    padding: 1px; 
+    border-radius: 50%; 
+} */
 
 

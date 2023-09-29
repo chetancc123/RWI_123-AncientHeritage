@@ -1,0 +1,92 @@
+.navbar-custom {
+    background-color:#8d236a  ; /* Change the background color */
+    color: #fff; /* Change the text color */
+}
+
+.navbar-custom .navbar-nav .nav-item .nav-link {
+    color: white;
+    font-weight: bolder; /* Set the text color to white */
+}
+
+/* Hover effect for Navbar Links */
+.navbar-custom .navbar-nav .nav-item .nav-link:hover {
+    color: #55c4e4; 
+}
+
+/* Style the logo */
+.logo {
+    width: 50px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+}
+.photo{
+    width: 80px;
+    height: 80px;
+    border: 5px solid #55c4e4;
+}
+
+/* Style the search bar */
+.form-control {
+    border-color: #fff; /* Change the border color */
+    color: #000; /* Change the text color */
+}
+
+/* Style the search button */
+.btn-outline-success {
+    border-color: #fff; /* Change the border color */
+    color: #fff; /* Change the text color */
+}
+
+.city-name {
+    background-color:rgba(0, 0, 0, 0.5)
+    ; /* Background color */
+    color: #3E001F;
+    width: 100%; /* Text color */
+    padding: 5px;}
+
+.row h2{
+    color:#7A316F;
+}
+
+.row{
+    width: 90%;
+}
+
+.top{
+    color: #b3335f;
+    font-weight: 500;
+}
+
+.location{
+    font-size: 22px;  
+}
+
+.main{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.main img{
+    width: 90%;
+    height: 500px;
+}
+.attraction{
+    justify-content: start;
+    font-weight: bold;
+    padding: 3px;
+    margin-top: 5px;
+
+}
+.divide{
+    width: 50%;
+    height: 50px;
+}
+.left{
+    border: 4px solid #8d236a;
+}
+.profile{
+    background: radial-gradient(#b3335f,#8d236a );
+    color: #fff;
+}
+
+
+

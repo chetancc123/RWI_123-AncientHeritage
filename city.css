@@ -83,11 +83,10 @@
     background: radial-gradient(#b3335f,#8d236a );
     color: #fff;
 }
+.navbar-nav  .active  a {
+    color: red;
+}
 
-/* .city-profile .nav-link.active {
-    border: 5px solid #55c4e4; 
-    padding: 1px; 
-    border-radius: 50%; 
-} */
+
 
 

@@ -87,6 +87,9 @@
     background: radial-gradient(#b3335f,#8d236a );
     color: #fff;
 }
+.navbar-nav  .active  a {
+    color: red;
+}
 
 
 
